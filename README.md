@@ -1,2 +1,5 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# git-workflow-practice-ni2050
+
+https://www.wired.com/story/chatgpt-coding-software-crisis/
+
+The article I've selected talks about some of the worries some of my classmates have expressed these last couple of classes. I think it's very interesting to see varying perspectives regarding the issue of AI replacing software engineering jobs. I liked how the article talks about something I've thought to be true for a while now, that AI will for the foreseeable future be merely a tool –quite a useful one– that software engineers will use to help them rather than replace them. I think that there is a lot more nuance to software engineering than simply writing out code, and for AI to get a good grasp of that on a level where they replace humans –I think that it's still a long way off. I also thought the note the article ends on is quite though-provoking. As computers and computer programs have gotten more and more complex, the more software engineers have been in demand, to think this pattern will completely change now is a big leap.
